@@ -37,7 +37,7 @@ hello
 * Choose the new branch and make a merge commit
 
 ### Pulling
-- [ ] Check this in github
+- [x] Check this in github
 
 * Go to github and press edit on the readme.md
 * Check the checkbox above
